@@ -5,7 +5,7 @@
   "description": "Depth-First website",
   "author": "Richard L. Apodaca",
   "dependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.29.3",
     "chai": "4.2.0",
     "gfm-code-blocks": "1.0.0",
     "handlebars": "^4.7.6",
